@@ -1,0 +1,1 @@
+invalid type: string "لة للاستشهاد بمصدرها، بدلا\u{64b} من\n\"الهلوسة\" (Hallucination).\n\nخطوات النظام: تقطيع المستندات (Chunking) → توليد Embeddings → التخزين في\nVector Store → عند وصول سؤال: توليد embedding له → استرجاع أقرب القطع →\n�ة وأنظمة RAG (Vector Embeddings & Retr

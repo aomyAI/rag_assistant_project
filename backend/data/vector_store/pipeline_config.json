@@ -1,0 +1,10 @@
+{
+  "collection_name": "ml_notes",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_size": 500,
+  "chunk_overlap": 80,
+  "top_k": 4,
+  "num_documents": 7,
+  "num_chunks": 16,
+  "offline_demo_used_when_built": true
+}
